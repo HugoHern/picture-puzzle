@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#board {
+    width: 410px;
+    height: 410px;
+    border: 2px solid purple;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ img {
+    width: 80px;
+    height: 80px;
+    border: 0.5px solid lightblue;
+}
+
+
+#pieces {
+    width: 1040px;
+    height: 160px;
+    border: 2px solid purple;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
